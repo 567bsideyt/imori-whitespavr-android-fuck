@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ipaidyouto.png"><SubTexture name="ipaidyouto idle0000" x="0" y="0" width="102" height="95" frameX="-6" frameY="-25" frameWidth="114" frameHeight="164" />
+<SubTexture name="ipaidyouto idle0001" x="102" y="0" width="102" height="95" frameX="-6" frameY="-25" frameWidth="114" frameHeight="164" />
+<SubTexture name="ipaidyouto idle0002" x="0" y="95" width="102" height="95" frameX="-6" frameY="-25" frameWidth="114" frameHeight="164" />
+</TextureAtlas>

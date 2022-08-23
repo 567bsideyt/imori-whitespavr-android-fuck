@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pico.png"><SubTexture name="pico idle0000" x="0" y="0" width="76" height="63" frameX="-19" frameY="-35" frameWidth="114" frameHeight="164" />
+<SubTexture name="pico idle0001" x="76" y="0" width="76" height="63" frameX="-19" frameY="-35" frameWidth="114" frameHeight="164" />
+<SubTexture name="pico idle0002" x="0" y="63" width="76" height="63" frameX="-19" frameY="-35" frameWidth="114" frameHeight="164" />
+</TextureAtlas>

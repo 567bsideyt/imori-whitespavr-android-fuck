@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="omorided.png"><SubTexture name="omorided idle0000" x="0" y="0" width="90" height="59" frameX="-13" frameY="-41" frameWidth="114" frameHeight="164" />
+<SubTexture name="omorided idle0001" x="90" y="0" width="90" height="59" frameX="-13" frameY="-41" frameWidth="114" frameHeight="164" />
+<SubTexture name="omorided idle0002" x="0" y="59" width="90" height="59" frameX="-13" frameY="-41" frameWidth="114" frameHeight="164" />
+</TextureAtlas>
